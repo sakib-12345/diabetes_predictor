@@ -21,7 +21,7 @@ def test(user_input):
 
 #creating the main function
 def main():
-    st.title("Diabetes Prediction Web App")
+    st.title("Diabetes Prediction Web App BY SAKIB")
 
     #getting the input data from the user
     Pregnancies = st.text_input("Number of Pregnancies")
@@ -47,3 +47,4 @@ if __name__ == '__main__':
 
 # command to run the app: python -m streamlit run Diabetes_prediction--WEBAPP.py
 # to stop the app: ctrl + c
+
